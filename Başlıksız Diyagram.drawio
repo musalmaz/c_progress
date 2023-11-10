@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T09:47:48.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="l2dDtBpBwnZusRlakRfo" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T09:49:31.056Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6W4b1qHfzlskIm-A1D57" version="22.1.0" type="github">
   <diagram name="Sayfa -1" id="Gj2gSd7K2H69_6VzcRKl">
     <mxGraphModel dx="1050" dy="1699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -159,6 +159,9 @@
         </mxCell>
         <mxCell id="khkEsvPdjJkN44EHwx-8-37" value="Downsapmling" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="khkEsvPdjJkN44EHwx-8-38" value="Grayscale conversion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-390" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
