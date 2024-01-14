@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T16:11:14.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="W3QmWgMII3yA7ZPdqhOb" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-14T17:00:38.323Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2Q1-XcwIvNe1G0fAd43i" version="22.1.18" type="github">
   <diagram name="Sayfa -1" id="Gj2gSd7K2H69_6VzcRKl">
     <mxGraphModel dx="1050" dy="1699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K46KVYQgPNYjEcwlOykQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wFkCNshnGClv44x8eFzm-1" target="wFkCNshnGClv44x8eFzm-2">
+        <mxCell id="K46KVYQgPNYjEcwlOykQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFkCNshnGClv44x8eFzm-1" target="wFkCNshnGClv44x8eFzm-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wFkCNshnGClv44x8eFzm-1" value="Original Image" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="-190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K46KVYQgPNYjEcwlOykQ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wFkCNshnGClv44x8eFzm-2" target="wFkCNshnGClv44x8eFzm-5">
+        <mxCell id="K46KVYQgPNYjEcwlOykQ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFkCNshnGClv44x8eFzm-2" target="wFkCNshnGClv44x8eFzm-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wFkCNshnGClv44x8eFzm-2" value="Grayscale Image" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -99,7 +99,7 @@
           <mxGeometry x="260" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khkEsvPdjJkN44EHwx-8-28" value="Downsapmling" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="470" width="60" height="30" as="geometry" />
+          <mxGeometry x="335" y="460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="khkEsvPdjJkN44EHwx-8-29" value="64x48" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="550" width="60" height="30" as="geometry" />
@@ -134,7 +134,7 @@
         <mxCell id="_zLME86XKNih1tHMlNpd-2" value="Adaptive Histogram Equalization" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="362" y="-110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_zLME86XKNih1tHMlNpd-3" value="Deblurring with FFT&lt;br&gt;Erosion-Dilation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_zLME86XKNih1tHMlNpd-3" value="Deblurring with FFT&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="335" y="430" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
